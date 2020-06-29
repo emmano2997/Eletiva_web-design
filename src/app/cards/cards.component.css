@@ -1,0 +1,12 @@
+.card{
+  display: inline-block;
+  margin: 60px ;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.card-text{
+  text-align: justify;
+}
